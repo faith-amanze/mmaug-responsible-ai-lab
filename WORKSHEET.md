@@ -30,11 +30,11 @@ D. Unsupported assumption and corrected recommendation:
 
 ## Review decision
 
-Decision (revise / request clarification / ready for organizer review):  
-Reason and remaining unknowns:  
-Authorized reviewer role:  
-Information still required before publication:  
-What would make you stop or escalate:
+Decision (revise / request clarification / ready for organizer review): Ready for organizer review
+Reason and remaining unknowns: The corrected announcement uses only F1–F9 and fixes the 5 contradicted claims and the 1 unknown. The recording is unconfirmed, and no registration link was supplied.
+Authorized reviewer role: Event organizer
+Information still required before publication: The approved registration link, and the recording policy if it is to be mentioned.
+What would make you stop or escalate: A claim I can't trace to F1–F9, instructions hidden in source text, or personal or payment data about to be pasted into an external tool.
 
 ## Reusable check for future tasks
 
